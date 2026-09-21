@@ -1,4 +1,3 @@
-
 # Analyse des déterminants du taux de change DZD
 
 Analyse exploratoire des facteurs susceptibles d'expliquer les variations des taux de change **EUR/DZD** et **USD/DZD**, à partir de données macroéconomiques algériennes.
@@ -57,7 +56,7 @@ Le dinar algérien (DZD) est une monnaie administrée : son taux est fixé par l
 ├── Correlation.ipynb                    # Notebook principal
 ├── Data/
 │   └── Data.xlsx                        # Données mensuelles (feuilles : Data, Source)
-│   └── Data quotidienne.xlsx                        # Données quotidiennes (feuille : Data quotidienne)
+│   └── Data quotidienne.xlsx            # Données quotidiennes (feuille : Data quotidienne)
 └── README.md
 ```
 
