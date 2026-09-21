@@ -83,6 +83,3 @@ Ce projet constitue la base analytique d'un outil d'aide à la décision en tré
 - Construire un modèle à correction d'erreur (MCE) si la cointégration est confirmée
 - Intégrer l'analyse dans un tableau de bord Flask de suivi des taux
 
----
-
-*Auteur : Wassim — Finance & Analyse de données | Algérie*
